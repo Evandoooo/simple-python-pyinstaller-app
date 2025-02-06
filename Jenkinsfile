@@ -10,6 +10,5 @@ node {
             echo 'Running tests...'
             sh './jenkins/scripts/test.sh'
         }
-        
     }
 }
